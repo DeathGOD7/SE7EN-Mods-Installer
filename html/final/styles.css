@@ -1,0 +1,17 @@
+body {
+	background-color: #F0F0F0;
+	font-family: Segoe UI;
+}
+h2#header {
+	color: black;
+}
+p.ver-header {
+	color: black;
+	border: 1px solid gray;
+	background-color: white;
+	font-size: 15px;
+}
+p.ver-desc {
+	color: black;
+	font-size: 14.5px;
+}
